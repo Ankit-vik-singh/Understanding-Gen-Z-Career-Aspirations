@@ -9,7 +9,9 @@ This journey has been incredibly rewarding, allowing me to work on an intriguing
 
 
 Here's a snapshot of my journey and key learnings:
-
+![Learning Aspiration](https://github.com/user-attachments/assets/bc3df30d-a049-4921-9e53-aefda7801d53)
+![Manager Aspiration](https://github.com/user-attachments/assets/86360c43-33c7-44a0-ba0c-a430fbd44c9e)
+![Mission Aspiration](https://github.com/user-attachments/assets/de6deb41-9382-40e5-bcc8-776a5121dfa9)
 
 
 ## 🔍 Methodology and Approach:
